@@ -13,7 +13,7 @@
 https://brettwooldridge.github.io/HikariCP/
 
 ## 跑马灯、图片预览、对话框等
-magnific-popup
+[magnific-popup](https://dimsemenov.com/plugins/magnific-popup/documentation.html)
 
 ## TWBSColor - 基于 Bootstrap 的 Navbar 生成工具
 [https://work.smarchal.com/twbscolor/](https://work.smarchal.com/twbscolor/)
